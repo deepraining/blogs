@@ -5,7 +5,7 @@
 1. [前后端分离、web与static服务器分离](./architecture/1.md)
 2. [本地化接口模拟、前后端并行开发](./architecture/2.md)
 3. [前端开发规范](./architecture/3.md)
-4. 前端开发文档
+4. [前端开发文档](./architecture/4.md)
 5. 构建工具 for teamwork
 6. 组件化
 7. 私有npm仓库
