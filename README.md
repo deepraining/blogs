@@ -10,5 +10,4 @@
 6. [组件化](./architecture/6.md)
 7. [私有 npm 仓库](./architecture/7.md)
 8. [单页面应用（SPA）、按需加载](./architecture/8.md)
-9. 服务器端渲染（SSR）
-10. node 中间层
+9. [服务器端渲染（SSR）与 node 中间层](./architecture/9.md)
