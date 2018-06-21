@@ -1,5 +1,3 @@
-# 我的博客
-
 ## 前端架构之路
 
 1. [前后端分离、web与static服务器分离](./architecture/1.md)
