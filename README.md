@@ -12,4 +12,4 @@
 
 ## 前端进阶
 
-1. [CSS 模块化](./advance/1.md)
+1. [CSS 模块化](./advanced/1.md)
