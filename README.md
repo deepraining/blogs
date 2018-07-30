@@ -13,3 +13,4 @@
 ## 前端进阶
 
 1. [CSS 模块化](./advanced/1.md)
+2. [目录结构优化](./advanced/2.md)
