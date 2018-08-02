@@ -15,3 +15,4 @@
 1. [CSS 模块化](./advanced/1.md)
 2. [目录结构优化](./advanced/2.md)
 3. [怎样提升代码质量](./advanced/3.md)
+4. [清理服务器上 webpack 打包的过期 hash 文件](./advanced/4.md)
