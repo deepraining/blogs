@@ -16,3 +16,7 @@
 2. [目录结构优化](./advanced/2.md)
 3. [怎样提升代码质量](./advanced/3.md)
 4. [清理服务器上 webpack 打包的过期 hash 文件](./advanced/4.md)
+
+## 前端扩展
+
+1. [从 1 到完美，用 js 和 electron 写一个桌面应用](./extend/1.md)
