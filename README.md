@@ -18,7 +18,7 @@
 4. [清理服务器上 webpack 打包的过期 hash 文件](./advanced/4.md)
 5. [js 扩展：静态类型检查（facebook flow）](./advanced/5.md)
 6. [webpack 之外的另一种选择：rollup](./advanced/6.md)
-7. [react vue 组件开发利器：storybook](./advanced/7.md)
+7. [react、vue 组件开发利器：storybook](./advanced/7.md)
 
 ## 前端漫谈
 
