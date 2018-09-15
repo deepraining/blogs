@@ -22,6 +22,7 @@
 8. [前端开发需要了解的工具集合：webpack, eslint, prettier, ...](./advanced/8.md)
 9. [js 性能优化利器：prepack](./advanced/9.md)
 10. [webpack 之外的另一种选择：parcel](./advanced/10.md)
+11. [js 数据结构类型扩展：immutable-js](./advanced/11.md)
 
 ## 前端漫谈
 
