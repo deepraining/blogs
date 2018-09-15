@@ -20,6 +20,7 @@
 6. [webpack 之外的另一种选择：rollup](./advanced/6.md)
 7. [react、vue 组件开发利器：storybook](./advanced/7.md)
 8. [前端开发需要了解的工具集合：webpack, eslint, prettier, ...](./advanced/8.md)
+9. [js 性能优化利器：prepack](./advanced/9.md)
 
 ## 前端漫谈
 
