@@ -23,6 +23,7 @@
 9. [js 性能优化利器：prepack](./advanced/9.md)
 10. [webpack 之外的另一种选择：parcel](./advanced/10.md)
 11. [js 数据结构类型扩展：immutable-js](./advanced/11.md)
+12. [css 的弱化与 js 的强化](./advanced/12.md)
 
 ## 前端漫谈
 
