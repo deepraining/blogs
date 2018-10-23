@@ -25,6 +25,7 @@
 11. [js 数据结构类型扩展：immutable-js](./advanced/11.md)
 12. [css 的弱化与 js 的强化](./advanced/12.md)
 13. [搭建自己的前端脚手架](./advanced/13.md)
+14. [如何提升前端性能和响应速度](./advanced/14.md)
 
 ## 前端漫谈
 
