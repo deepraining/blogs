@@ -41,6 +41,7 @@
 5. [细说后端模板渲染、客户端渲染、node 中间层、服务器端渲染（ssr）](./extend/5.md)
 6. [h5 与原生 app 交互的原理](./extend/6.md)
 7. [前端如何高效的与后端协作开发](./extend/7.md)
+8. [细说 js 压缩、sourcemap、通过 sourcemap 查找原始报错信息](./extend/8.md)
 
 ## javascript
 
