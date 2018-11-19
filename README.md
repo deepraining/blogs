@@ -42,6 +42,7 @@
 6. [h5 与原生 app 交互的原理](./extend/6.md)
 7. [前端如何高效的与后端协作开发](./extend/7.md)
 8. [细说 js 压缩、sourcemap、通过 sourcemap 查找原始报错信息](./extend/8.md)
+9. [从 1 到完美，写一个 js 库、node 库、前端组件库](./extend/9.md)
 
 ## javascript
 
