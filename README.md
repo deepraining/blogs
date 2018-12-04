@@ -44,7 +44,7 @@
 8. [细说 js 压缩、sourcemap、通过 sourcemap 查找原始报错信息](./extend/8.md)
 9. [从 1 到完美，写一个 js 库、node 库、前端组件库](./extend/9.md)
 10. [从 0 到 1 再到 100, 搭建、编写、构建一个前端项目](./extend/10.md)
-11. [如何简化 webpack 配置](./extend/11.md)
+11. [通用、封装、简化 webpack 配置](./extend/11.md)
 
 ## javascript
 
