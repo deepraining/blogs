@@ -47,6 +47,7 @@
 11. [通用、封装、简化 webpack 配置](./extend/11.md)
 12. [react 前端项目技术选型、开发工具、周边生态](./extend/12.md)
 13. [vue 前端项目技术选型、开发工具、周边生态](./extend/13.md)
+14. [前端开发如何做好本地接口模拟](./extend/14.md)
 
 ## javascript
 
