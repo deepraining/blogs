@@ -57,6 +57,7 @@
 
 1. [\[2018-08-25\] js 中一些意想不到的使用技巧（持续更新，欢迎补充）](./javascript/1.md)
 2. [\[2018-12-28\] js 中的 number 为何很怪异](./javascript/2.md)
+3. [\[2019-06-06\] js 函数参数推荐书写方式 ({param1, param2, ...})](./javascript/3.md)
 
 ## node
 
