@@ -54,13 +54,13 @@
 18. [\[2019-05-29\] 细说 Vue 组件的服务器端渲染](./extend/18.md)
 19. [\[2019-05-29\] 再谈前端项目的组件化](./extend/19.md)
 
-## javascript
+## JavaScript
 
 1. [\[2018-08-25\] js 中一些意想不到的使用技巧（持续更新，欢迎补充）](./javascript/1.md)
 2. [\[2018-12-28\] js 中的 number 为何很怪异](./javascript/2.md)
 3. [\[2019-06-06\] js 函数参数推荐书写方式 ({ param1, param2, ... })](./javascript/3.md)
 
-## node
+## NodeJs
 
 1. [\[2018-09-28\] 从 1 到完美，用 node 写一个命令行工具](./node/1.md)
 2. [\[2018-11-06\] 构建工具是如何用 node 操作 html/js/css/md 文件的](./node/2.md)
