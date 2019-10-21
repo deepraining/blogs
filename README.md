@@ -12,20 +12,20 @@
 
 ## 前端进阶
 
-1. [\[2018-06-27\] CSS 模块化](./advanced/1.md)
-2. [\[2018-07-30\] 目录结构优化](./advanced/2.md)
-3. [\[2018-08-02\] 怎样提升代码质量](./advanced/3.md)
-4. [\[2018-08-02\] 清理服务器上 webpack 打包的过期 hash 文件](./advanced/4.md)
-5. [\[2018-08-23\] js 扩展：静态类型检查（facebook flow）](./advanced/5.md)
-6. [\[2018-08-24\] webpack 之外的另一种选择：rollup](./advanced/6.md)
-7. [\[2018-09-11\] react、vue 组件开发利器：storybook](./advanced/7.md)
-8. [\[2018-09-14\] 前端开发需要了解的工具集合：webpack, eslint, prettier, ...](./advanced/8.md)
-9. [\[2018-09-15\] js 性能优化利器：prepack](./advanced/9.md)
-10. [\[2018-09-15\] webpack 之外的另一种选择：parcel](./advanced/10.md)
-11. [\[2018-09-15\] js 数据结构类型扩展：immutable-js](./advanced/11.md)
-12. [\[2018-09-17\] css 的弱化与 js 的强化](./advanced/12.md)
-13. [\[2018-09-21\] 搭建自己的前端脚手架](./advanced/13.md)
-14. [\[2018-10-23\] 如何提升前端性能和响应速度](./advanced/14.md)
+1. [\[2018-06-27\] CSS 模块化](./advanced/10.md)
+2. [\[2018-07-30\] 目录结构优化](./advanced/11.md)
+3. [\[2018-08-02\] 怎样提升代码质量](./advanced/12.md)
+4. [\[2018-08-02\] 清理服务器上 webpack 打包的过期 hash 文件](./advanced/13.md)
+5. [\[2018-08-23\] js 扩展：静态类型检查（facebook flow）](./advanced/14.md)
+6. [\[2018-08-24\] webpack 之外的另一种选择：rollup](./advanced/15.md)
+7. [\[2018-09-11\] react、vue 组件开发利器：storybook](./advanced/16.md)
+8. [\[2018-09-14\] 前端开发需要了解的工具集合：webpack, eslint, prettier, ...](./advanced/17.md)
+9. [\[2018-09-15\] js 性能优化利器：prepack](./advanced/18.md)
+10. [\[2018-09-15\] webpack 之外的另一种选择：parcel](./advanced/19.md)
+11. [\[2018-09-15\] js 数据结构类型扩展：immutable-js](./advanced/20.md)
+12. [\[2018-09-17\] css 的弱化与 js 的强化](./advanced/21.md)
+13. [\[2018-09-21\] 搭建自己的前端脚手架](./advanced/22.md)
+14. [\[2018-10-23\] 如何提升前端性能和响应速度](./advanced/23.md)
 
 ## 前端漫谈
 
