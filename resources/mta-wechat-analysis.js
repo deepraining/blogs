@@ -177,7 +177,7 @@ function initOnload() {
       MTA.Data.show = !1;
       MTA.Page.init();
     }
-    this.__call_hook_proxy(hook, args);
+    return this.__call_hook_proxy(hook, args);
   };
 }
 
