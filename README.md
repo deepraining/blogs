@@ -72,3 +72,4 @@
 
 1. [\[2018-12-28\] gitlab 安装、配置](./misc/1.md)
 2. [\[2019-01-15\] api 接口管理工具](./misc/2.md)
+3. [\[2021-06-08\] 解决 CocoaPods 命令 pod install 安装 github.com 上的包非常缓慢或者失败](./misc/3.md)
