@@ -1,8 +1,9 @@
 ## Spring 源码解析
 
-1. [\[2021-10-09\] SpringMVC 的加载机制](spring/1.md)
-1. [\[2021-10-12\] Spring 源码解析二：SpringMVC 的上下文组件(WebApplicationContext)](spring/2.md)
-1. [\[2021-10-14\] Spring 源码解析三：SpringMVC 的 Bean 注册、解析、实例化机制](spring/3.md)
+1. [\[2021-10-09\] Spring 源码解析一：SpringMVC 的加载机制](spring/1.md)
+1. [\[2021-10-12\] Spring 源码解析二：上下文组件(WebApplicationContext)](spring/2.md)
+1. [\[2021-10-14\] Spring 源码解析三：Bean 的注册、解析、实例化机制](spring/3.md)
+1. [\[2021-10-14\] Spring 源码解析四：Bean 的构造装载、属性值解析、注解扫描](spring/4.md)
 
 ## 前端进阶
 
