@@ -4,6 +4,7 @@
 1. [\[2021-10-12\] Spring 源码解析二：上下文组件(WebApplicationContext)](spring/2.md)
 1. [\[2021-10-14\] Spring 源码解析三：Bean 的注册、解析、实例化机制](spring/3.md)
 1. [\[2021-10-14\] Spring 源码解析四：Bean 的构造装载、属性值解析、注解扫描](spring/4.md)
+1. [\[2021-10-19\] Spring 源码解析五：Bean 的配置、定义、注册](spring/5.md)
 
 ## 前端进阶
 
