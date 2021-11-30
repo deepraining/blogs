@@ -14,6 +14,7 @@
 1. [\[2021-10-25\] Spring 源码解析十二：SpringBoot 的加载机制](spring/12.md)
 1. [\[2021-10-25\] Spring 源码解析十三：SpringBoot 初始化应用时加载的组件](spring/13.md)
 1. [\[2021-10-26\] Spring 源码解析十四：SpringBoot Autoconfigure 初始化应用时加载的组件](spring/14.md)
+1. [\[2021-11-30\] Spring 源码解析十五：SpringCloud 的基础组件](spring/15.md)
 
 ## 前端进阶
 
